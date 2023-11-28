@@ -29,3 +29,5 @@
 #include "code\game\objects\items\maintenance_loot.dm"
 #include "code\modules\reagents\chemistry\reagents\nitrium.dm"
 #include "code\modules\mob\living\simple_animal\hostile\megafauna\colossus.dm"
+#include "code\modules\clothing\masks\gasmask.dm"
+#include "code\modules\clothing\chick_hat\chick_hat.dm"
